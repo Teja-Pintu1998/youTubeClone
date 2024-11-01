@@ -68,3 +68,28 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+<!-- Head
+Body
+    Sidebar
+        MenuItems
+
+    MainContainer
+        ButtonList
+        VideoContainer
+            VideoCard -->
+
+
+Debouncing: 
+typing slow === the diff between two keystrokes is high.
+
+typing fast === the diff between two keystrokes is low.
+
+Debouncing with 200 ms means ==> API is denied if the diff between the consequtive keystrokes is less than 200.
+
+
+//Challenges of live chat:
+
+challenge on data layer- Getting live data
+challenge on UI layer- updating the new data onto the UI
